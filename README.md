@@ -6,7 +6,7 @@ your device's camera. These instructions walk you through building and running
 the demo on an Android device. Camera captures are discarded immediately after
 use, nothing is stored or saved.
 
-The app demonstrates how to use 4 models:
+The app demonstrates how to use 3 models:
 
 * Single pose models: The model can estimate the pose of only one person in the
 input image. If the input image contains multiple persons, the detection result
@@ -14,10 +14,6 @@ can be largely incorrect.
    * PoseNet
    * MoveNet Lightning
    * MoveNet Thunder
-* Multi pose models: The model can estimate pose of multiple persons in the
-input image.
-   * MoveNet MultiPose: Support up to 6 persons.
-
 ![pose estimation result](https://github.com/user-attachments/assets/79c0bcac-3249-4280-a9e1-2ca3337dca07)
 
 ## Build the demo using Android Studio
