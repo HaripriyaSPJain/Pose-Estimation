@@ -18,10 +18,7 @@ can be largely incorrect.
 input image.
    * MoveNet MultiPose: Support up to 6 persons.
 
-See this [blog post](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
-for a comparison between these models.
-
-![Demo Image](posenetimage.png)
+![pose estimation result](https://github.com/user-attachments/assets/79c0bcac-3249-4280-a9e1-2ca3337dca07)
 
 ## Build the demo using Android Studio
 
@@ -67,7 +64,3 @@ If you explicitly want to download the model, you can download it from here:
 * [Movenet Thunder](https://www.kaggle.com/models/google/movenet/frameworks/tfLite/variations/singlepose-thunder)
 * [Movenet MultiPose](https://www.kaggle.com/models/google/movenet/frameworks/tfLite/variations/multipose-lightning-tflite-float16)
 
-### Additional Note
-_Please do not delete the assets folder content_. If you explicitly deleted the
- files, then please choose `Build` > `Rebuild` from menu to re-download the
- deleted model files into assets folder.
