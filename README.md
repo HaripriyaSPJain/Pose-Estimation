@@ -15,7 +15,10 @@ can be largely incorrect.
    * MoveNet Lightning
    * MoveNet Thunder
      
-![pose estimation result](https://github.com/user-attachments/assets/79c0bcac-3249-4280-a9e1-2ca3337dca07)
+![WhatsApp Image 2024-11-19 at 19 01 37_5a8b1a26](https://github.com/user-attachments/assets/ac3466da-0b17-4e9a-9b70-9df030a3d6a2)
+![WhatsApp Image 2024-11-19 at 19 01 37_d21bdf86](https://github.com/user-attachments/assets/1bb829fa-bc3e-4be1-95a1-8d9532858e30)
+
+
 
 ## Build the demo using Android Studio
 
